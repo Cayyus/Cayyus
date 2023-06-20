@@ -1,8 +1,4 @@
-- 👋 Hi, I’m David.
-- 👀 I’m interested in programming, web development and software development.
-- 🌱 I’m currently learning python my first programming language, and web development (HTML, CSS), I am an intermediate learner in both python and web development. 
-- 💞️ I’m looking to collaborate on python projects and web developing.
-- 📫 You can reach me @davie_hoffman on Twitter.
+Hello there! My name is Cayyus (you can also call me Caius), I am learning web development and software development, I use Python mainly, and also know HTML, CSS and Javascript (pretty rough here though). I mostly create tools, app and websites. I am looking to collaborate on software projects as well as web projects too.
 
 <!---
 Daviehoff/Daviehoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
