@@ -10,7 +10,7 @@ Feel free to reach out, I'd love to have a chat!
 # What I am working on
 - A Spotify CLI (Python)
 - A code editor (Python)
-- A HTTP Client (Python
+- A HTTP Client (Python)
 - An Generative AI app
 
 # What I am learning 
