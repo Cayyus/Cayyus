@@ -3,7 +3,7 @@ Hello there! My name is Cayyus (you can also call me Caius), I am a aspiring sof
 ## Connect with me
 - Discord - cayyus
 - Reddit - Hurydin
-- Gmail - marnhorn19@gmail.com
+- Gmail - marnhorn19@gmail.com <br>
 Feel free to reach out, I'd love to have a chat!
 
 # What I am working on
