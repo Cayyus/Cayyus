@@ -12,6 +12,7 @@ Feel free to reach out, I'd love to have a chat!
 - A code editor (Python)
 - A HTTP Client (Python)
 - An Generative AI app
+- A Terminal Chat Assistant
 
 # What I am learning 
 - Machine Learning and AI
