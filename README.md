@@ -8,9 +8,9 @@ Hello there! My name is Cayyus (you can also call me Caius), I am a aspiring pro
 Feel free to reach out, I'd love to have a chat!
 
 # What I am working on
-- A Spotify CLI (Python)
-- A code editor (Python)
-- A HTTP Client (Python)
+- A Spotify CLI 
+- A code editor 
+- A HTTP Client 
 - An Generative AI app
 - A Terminal Chat Assistant
 
