@@ -10,7 +10,7 @@ Feel free to reach out, I'd love to have a chat!
 # What I am working on
 - Spotify CLI 
 - Code Editor 
-- A video and audio player
+- AI-Powered Code Generator
 - Terminal Chat Assistant
 
 # What I am learning 
