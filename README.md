@@ -9,7 +9,8 @@ Feel free to reach out, I'd love to have a chat!
 
 # What I am working on
 - Spotify CLI 
-- Code Editor 
+- Code Editor
+- Multi-purpose discord bot
 - AI-Powered Video Summarizer
 - Terminal Chat Assistant
 
