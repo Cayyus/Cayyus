@@ -11,7 +11,7 @@ Feel free to reach out, I'd love to have a chat!
 - Spotify CLI 
 - Code Editor
 - Multi-purpose discord bot
-- AI-Powered Video Summarizer
+- AI-Powered Youtube Comment Sentiment Analyst
 - Terminal Chat Assistant
 
 # What I am learning 
