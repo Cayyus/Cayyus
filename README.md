@@ -17,7 +17,6 @@ Feel free to reach out, I'd love to have a chat!
 # What I am learning 
 - Machine Learning and AI
 - Systems programming
-- Rust programming language
 - Asynchronous programming in details
 - Threading and Multiprocessing
 - Memory Management
