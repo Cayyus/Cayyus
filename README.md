@@ -9,10 +9,9 @@ Feel free to reach out, I'd love to have a chat!
 
 # What I am working on
 - Spotify CLI 
-- Code Editor
-- Multi-purpose discord bot
-- AI-Powered Youtube Comment Sentiment Analyst
-- Terminal Chat Assistant
+- AI Powered Youtube Comment Sentiment Analyzer
+- My very own programming language
+- A advanced budget and expenses tracker
 
 # What I am learning 
 - Machine Learning and AI
