@@ -19,7 +19,7 @@ Feel free to reach out, I'd love to have a chat!
 - Asynchronous programming in details
 - Threading and Multiprocessing
 - Memory Management
-- Other programming stuff
+- How virtual machines work
 <!---
 Daviehoff/Daviehoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
