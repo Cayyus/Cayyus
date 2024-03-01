@@ -10,7 +10,7 @@ Feel free to reach out, I'd love to have a chat!
 # What I am working on
 - Spotify CLI 
 - AI Powered Youtube Comment Sentiment Analyzer
-- My very own programming language 
+- A Virtual Machine from scratch
 - A note taking and habit tracking app
 
 # What I am learning 
