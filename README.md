@@ -8,7 +8,8 @@ Hello there! My name is Cayyus (you can also call me Caius). I am a aspiring pro
 Feel free to reach out, I'd love to have a chat!
 
 # What I am working on
-- Spotify CLI 
+- Spotify CLI
+- An Eye Tracker
 - AI Powered Youtube Comment Sentiment Analyzer
 - A Virtual Machine from scratch
 - A note taking and habit tracking app
