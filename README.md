@@ -9,6 +9,7 @@ Feel free to reach out, I'd love to have a chat!
 
 # What I am working on
 - Spotify CLI
+- Multi-purpose discord bot
 - Eye Tracker
 - AI Powered Youtube Comment Sentiment Analyzer
 - A Virtual Machine from scratch
