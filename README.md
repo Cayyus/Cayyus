@@ -13,7 +13,6 @@ Feel free to reach out, I'd love to have a chat!
 - Eye Tracker
 - AI Powered Youtube Comment Sentiment Analyzer
 - A Virtual Machine from scratch
-- A note taking and habit tracking app
 
 # What I am learning 
 - Machine Learning and AI
