@@ -13,7 +13,6 @@ Feel free to reach out, I'd love to have a chat!
 - Multi-purpose discord bot
 - Eye Tracker
 - AI Powered Youtube Comment Sentiment Analyzer
-- A Virtual Machine from scratch
 
 # What I am learning 
 - Machine Learning and AI
