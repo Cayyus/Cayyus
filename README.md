@@ -9,6 +9,7 @@ Feel free to reach out, I'd love to have a chat!
 
 # What I am working on
 - Spotify CLI
+- A Spotify-related tool (Announced soon)
 - Search engine
 - Multi-purpose discord bot
 - Eye Tracker
@@ -20,7 +21,7 @@ Feel free to reach out, I'd love to have a chat!
 - Asynchronous programming in details
 - Threading and Multiprocessing
 - Memory Management
-- How virtual machines work
+- Web Crawling
 <!---
 Daviehoff/Daviehoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
