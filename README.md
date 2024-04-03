@@ -13,7 +13,6 @@ Feel free to reach out, I'd love to have a chat!
 - A Spotify-related tool (Announced soon)
 - Search engine
 - Multi-purpose discord bot
-- Eye Tracker
 - AI Powered Youtube Comment Sentiment Analyzer
 
 # What I am learning 
