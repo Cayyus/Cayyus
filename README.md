@@ -10,7 +10,7 @@ Feel free to reach out, I'd love to have a chat!
 # What I am working on
 - Spotify CLI
 - A CLI for NationStates
-- A Spotify-related tool (Announced soon)
+- Ad-Blocker for Spotify
 - Search engine
 - Multi-purpose discord bot
 - AI Powered Youtube Comment Sentiment Analyzer
