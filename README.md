@@ -9,7 +9,7 @@ Feel free to reach out, I'd love to have a chat!
 
 # What I am working on
 - Spotify CLI
-- A CLI for NationStates
+- A GUI app for NationStates
 - Ad-Blocker for Spotify
 - Search engine
 - Multi-purpose discord bot
