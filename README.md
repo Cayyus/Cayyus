@@ -14,6 +14,7 @@ Feel free to reach out, I'd love to have a chat!
 - Search engine
 - Multi-purpose discord bot
 - AI Powered Youtube Comment Sentiment Analyzer
+- News Aggregator App
 
 # What I am learning 
 - Machine Learning and AI
