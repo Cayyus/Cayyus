@@ -15,6 +15,7 @@ Feel free to reach out, I'd love to have a chat!
 - Multi-purpose discord bot
 - AI Powered Youtube Comment Sentiment Analyzer
 - News Aggregator App
+- Spotify API Wrapper
 
 # What I am learning 
 - Machine Learning and AI
