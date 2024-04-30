@@ -16,7 +16,7 @@ Feel free to reach out, I'd love to have a chat!
 - AI Powered Youtube Comment Sentiment Analyzer
 - News Aggregator 
 - Music Finder 
-- File Handling tool
+- File-sharing tool
 
 # What I am learning 
 - Machine Learning and AI
