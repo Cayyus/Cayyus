@@ -9,13 +9,13 @@ Feel free to reach out, I'd love to have a chat!
 
 # What I am working on
 - Spotify CLI
-- A GUI app for NationStates
+- A wrapper for NationStates
 - Ad-Blocker for Spotify
 - Search engine
 - Multi-purpose discord bot
 - AI Powered Youtube Comment Sentiment Analyzer
 - News Aggregator 
-- Music Finder 
+- Google API wrapper
 - File-sharing tool
 
 # What I am learning 
