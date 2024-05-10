@@ -17,6 +17,7 @@ Feel free to reach out, I'd love to have a chat!
 - News Aggregator 
 - Google API wrapper
 - File management tool
+- Auto-completetion program for Windows
 
 # What I am learning 
 - Machine Learning and AI
