@@ -16,7 +16,7 @@ Feel free to reach out, I'd love to have a chat!
 - AI Powered Youtube Comment Sentiment Analyzer
 - News Aggregator 
 - Google API wrapper
-- File management tool
+- A tools collection app
 - Auto-completetion program for Windows
 
 # What I am learning 
