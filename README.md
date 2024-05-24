@@ -12,7 +12,7 @@ Feel free to reach out, I'd love to have a chat!
 - Reddit GUI (personal use)
 - Ad-Blocker for Spotify
 - Search engine
-- Multi-purpose discord bot
+- Multi-Purpose Discord Bot
 - AI Powered Youtube Comment Sentiment Analyzer
 - News Aggregator 
 - Google API wrapper
