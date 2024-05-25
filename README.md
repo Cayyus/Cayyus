@@ -10,12 +10,10 @@ Feel free to reach out, I'd love to have a chat!
 # What I am working on
 - Spotify CLI
 - Reddit GUI (personal use)
-- Ad-Blocker for Spotify
 - Search engine
 - Multi-Purpose Discord Bot
 - AI Powered Youtube Comment Sentiment Analyzer
 - News Aggregator 
-- Google API wrapper
 - A tools collection app
 - Auto-completetion program for Windows
 
