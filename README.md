@@ -15,7 +15,7 @@ Feel free to reach out, I'd love to have a chat!
 - AI Powered Youtube Comment Sentiment Analyzer
 - News Aggregator 
 - A tools collection app
-- Auto-completetion program for Windows
+- Auto-completion program for Windows
 
 # What I am learning 
 - Machine Learning and AI
