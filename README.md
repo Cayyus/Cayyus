@@ -9,7 +9,7 @@ Feel free to reach out, I'd love to have a chat!
 
 # What I am working on
 - Spotify CLI
-- Reddit GUI (personal use)
+- Reddit tool
 - Search engine
 - Multi-Purpose Discord Bot
 - AI Powered Youtube Comment Sentiment Analyzer
