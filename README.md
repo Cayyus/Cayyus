@@ -2,7 +2,7 @@ Hello there! My name is Cayyus (you can also call me Caius). I am a aspiring pro
 
 ## Connect with me
 - Discord - cayyus
-- Reddit - Hurydin
+- Reddit - u/Hurydin
 - Gmail - marnhorn19@gmail.com <br>
 
 Feel free to reach out, I'd love to have a chat!
