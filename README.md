@@ -14,7 +14,6 @@ Feel free to reach out, I'd love to have a chat!
 - Multi-Purpose Discord Bot
 - AI Powered Youtube Comment Sentiment Analyzer
 - News Aggregator 
-- A tools collection app
 
 # What I am learning 
 - Machine Learning and AI
