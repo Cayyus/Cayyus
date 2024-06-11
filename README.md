@@ -12,8 +12,7 @@ Feel free to reach out, I'd love to have a chat!
 - Reddit tool
 - Search engine
 - Multi-Purpose Discord Bot
-- AI Powered Youtube Comment Sentiment Analyzer
-- Weather App
+- AI questioner
 
 # What I am learning 
 - Machine Learning and AI
