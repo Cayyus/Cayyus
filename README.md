@@ -12,6 +12,7 @@ Feel free to reach out, I'd love to have a chat!
 - Reddit tool
 - Search engine
 - Multi-Purpose Discord Bot
+- Weather App
 - AI questioner
 
 # What I am learning 
