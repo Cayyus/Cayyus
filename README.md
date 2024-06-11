@@ -13,7 +13,6 @@ Feel free to reach out, I'd love to have a chat!
 - Search engine
 - Multi-Purpose Discord Bot
 - AI Powered Youtube Comment Sentiment Analyzer
-- Notes Organiser
 - Weather App
 
 # What I am learning 
