@@ -14,7 +14,6 @@ Feel free to reach out, I'd love to have a chat!
 - Multi-Purpose Discord Bot
 - YouTube Tool
 - AI questioner
-- Youtube Music to Spotify converter
 
 # What I am learning 
 - Machine Learning and AI
