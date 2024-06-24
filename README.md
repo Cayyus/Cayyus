@@ -10,10 +10,10 @@ Feel free to reach out, I'd love to have a chat!
 # What I am working on
 - Spotify CLI
 - Reddit tool
-- Search engine
 - Multi-Purpose Discord Bot
 - YouTube Tool
 - AI questioner
+- Advanced Youtube/Reddit Downloader
 
 # What I am learning 
 - Machine Learning and AI
