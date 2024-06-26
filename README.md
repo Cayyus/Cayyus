@@ -12,7 +12,7 @@ Feel free to reach out, I'd love to have a chat!
 - Multi-Purpose Discord Bot
 - AI questioner
 - Advanced Youtube/Reddit Downloader
-- Flight Tracker through Twitter
+- Flight Tracker through Twitter (on hold until September 2024)
 
 # What I am learning 
 - Machine Learning and AI
