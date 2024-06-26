@@ -9,11 +9,10 @@ Feel free to reach out, I'd love to have a chat!
 
 # What I am working on
 - Spotify CLI
-- Reddit tool
 - Multi-Purpose Discord Bot
-- YouTube Tool
 - AI questioner
 - Advanced Youtube/Reddit Downloader
+- Flight Tracker through Twitter
 
 # What I am learning 
 - Machine Learning and AI
