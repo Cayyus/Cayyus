@@ -13,6 +13,7 @@ Feel free to reach out, I'd love to have a chat!
 - AI questioner
 - Advanced Youtube/Reddit Downloader
 - Flight Tracker Discord Bot
+- QR Code Generator and Scanner
 
 # What I am learning 
 - Machine Learning and AI
