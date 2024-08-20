@@ -1,4 +1,4 @@
-Hello there! My name is Cayyus (you can also call me Caius). I am a aspiring programmer and software developer. I create tools, apps, websites and more! I love spending time tackling challenges and learning things, I love taking projects which seem tricky and think on how to do them. It's one of my favourite parts of computer science
+Hello there! My name is Cayyus (you can also call me Caius). I am a aspiring programmer and software developer. I create tools, apps, websites and more! I love spending time tackling challenges and learning things, I love taking projects which seem tricky and think on how to do them. It's one of my favourite parts of computer science.
 
 ## Connect with me
 - Discord - [cayus.code](https://www.discordapp.com/users/696012281774997554)
