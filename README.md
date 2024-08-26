@@ -14,6 +14,7 @@ Feel free to reach out, I'd love to have a chat!
 - Advanced Youtube/Reddit Downloader
 - Flight Tracker Discord Bot
 - QR Code Generator and Scanner
+- Image File Format that is efficient and small in size
 
 # What I am learning 
 - Machine Learning and AI
