@@ -15,7 +15,6 @@ Feel free to reach out, I'd love to have a chat!
 - Flight Tracker Discord Bot
 - QR Code Generator and Scanner
 - Image File Format that is efficient and small in size
-- Reddit Statistical App
 
 # What I am learning 
 - Machine Learning and AI
