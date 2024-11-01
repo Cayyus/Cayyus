@@ -13,8 +13,6 @@ Feel free to reach out, I'd love to have a chat!
 - AI questioner
 - Advanced Youtube/Reddit Downloader
 - Flight Tracker Discord Bot
-- Video Transcript Converter
-- Image File Format that is efficient and small in size
 
 # What I am learning 
 - Machine Learning and AI
