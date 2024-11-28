@@ -8,12 +8,11 @@ Hello there! My name is Cayyus (you can also call me Caius). I am a aspiring pro
 Feel free to reach out, I'd love to have a chat!
 
 # What I am working on
-- Spotify CLI
 - Multi-Purpose Discord Bot
 - AI questioner
 - Advanced Youtube/Reddit Downloader
 - Flight Tracker Discord Bot
-- Mood tracker in Instagram
+- Youtube Comment AI Sentiment Analyzer
 
 # What I am learning 
 - Machine Learning and AI
