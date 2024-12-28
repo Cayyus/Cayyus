@@ -11,14 +11,15 @@ Feel free to reach out, I'd love to have a chat!
 - Multi-Purpose Discord Bot
 - AI questioner
 - Advanced Youtube/Reddit Downloader
-- Flight Tracker Discord Bot
 - Youtube Comment AI Sentiment Analyzer
+- HTTP Request Client
 
 # What I am learning 
 - Machine Learning and AI
 - Asynchronous programming in details
 - Threading and Multiprocessing
 - Unit Testing
+- C programming language 
 <!---
 Daviehoff/Daviehoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
