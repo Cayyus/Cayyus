@@ -13,6 +13,7 @@ Feel free to reach out, I'd love to have a chat!
 - Advanced Youtube/Reddit Downloader
 - Youtube Comment AI Sentiment Analyzer
 - HTTP Request Client
+- Music API
 
 # What I am learning 
 - Machine Learning and AI
