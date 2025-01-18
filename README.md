@@ -14,6 +14,7 @@ Feel free to reach out, I'd love to have a chat!
 - Youtube Comment AI Sentiment Analyzer
 - HTTP Request Client
 - Music API
+- AI Powered Chrome Dino Game
 
 # What I am learning 
 - Machine Learning and AI
