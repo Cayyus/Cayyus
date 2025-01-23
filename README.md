@@ -15,6 +15,7 @@ Feel free to reach out, I'd love to have a chat!
 - HTTP Request Client
 - Music API
 - AI Powered Chrome Dino Game
+- Fact checking/bias detector
 
 # What I am learning 
 - Machine Learning and AI
