@@ -10,12 +10,12 @@ Feel free to reach out, I'd love to have a chat!
 # What I am working on
 - Multi-Purpose Discord Bot
 - AI questioner
-- Advanced Youtube/Reddit Downloader
 - Youtube Comment AI Sentiment Analyzer
 - HTTP Request Client
 - AI Powered Chrome Dino Game
 - Fact checking/bias detector
-- Music Detector Algorithim 
+- Music Detector Algorithim
+- Compression Algorithm
 
 # What I am learning 
 - Machine Learning and AI
